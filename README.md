@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/TERA_BAAP_Sparky"><img src="https://te.legra.ph/file/2a2b6946c47a07760e733.jpg"></a></p>
 
-## SPARKY MUSIC - A TELEGRAM MUSIC BOT WRITTEN IN PYTHON3.
+### SPARKY MUSIC - A TELEGRAM MUSIC BOT PROJECT WRITTEN IN PYTHON3.
 
 # Deploy On OkTeto
 
