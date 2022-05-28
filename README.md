@@ -1,8 +1,6 @@
-## Best Smart Voice Chat Music Robot For Telegram Groups ...
+<p align="center"><a href="https://t.me/TERA_BAAP_Sparky"><img src="https://te.legra.ph/file/fa999d3949f84a2398d32.jpg"></a></p>
 
-
-<p align="center"><a href="https://t.me/Shailendra34"><img src="https://te.legra.ph/file/a4c16c60dd1c46bbe7385.jpg"></a></p>
-
+# 𝐒𝐏𝐀𝐑𝐊𝐘 𝐌𝐔𝐒𝐈𝐂 - 𝐀 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐖𝐑𝐈𝐓𝐓𝐄𝐍 𝐈𝐍 𝐏𝐘𝐓𝐇𝐎𝐍𝟑.
 
 # Deploy On OkTeto
 
@@ -15,14 +13,5 @@
 
 
 
-# Get String Session
-
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AdityaHalder/StringSession)
 
 
-
-# Owner Of This Repository
-
-## [Aditya Halder](https://t.me/AdityaHalder) 
-
-## [HERO](https://t.me/Shailendra34) 
