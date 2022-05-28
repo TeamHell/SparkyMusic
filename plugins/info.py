@@ -5,7 +5,7 @@ from pyrogram import filters
 OWNER = 5327845950
 sudos = 2102783671
 
-@bot.on_message(filters.command("info"))
+@CLIENT.on_message(filters.command("info"))
 def info(_, message):
     if message.text == "/info":
         user = message.from_user.id
