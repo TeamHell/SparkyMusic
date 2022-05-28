@@ -33,9 +33,9 @@
             "required": true,
             "value": ""
     
-    },
+       },
         "OWNER_USERNAME": {
-            "description": "Bot owner username",
+            "description": "Username of the owner.",
             "required": true,
             "value": "Tera_Baap_Sparky"
         },
