@@ -20,31 +20,27 @@
 
 <details>
 
-  <summary> Deploy to Heroku 🔥 </summary>
+  <summary> 🔥• Deploy to Heroku • 🔥 </summary>
 
-### I would suggest you to host this on Europe server for better quality and less crashes.
+<h4> DEPLOY TO HEROKU </h4>
 
-<p align="center"><a href="[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)" alt="Deploy to Heroku" target="_blank"/></a></p>
-
-</details>
-
-<details>
-
-  <summary> Deploy to Heroku server on Telegram 🔥 </summary>
-
-### Deploy to Heroku server without leaving Telegram app.
-
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
 </details>
 
 <details>
 
-  <summary> Deploy to Heroku server on Telegram 🔥 </summary>
+  <summary> 🔥• Deploy Via Telegram Bot •🔥 </summary>
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2
 
-### Deploy to Heroku server without leaving Telegram app.
+</details>
 
-<p align="center"><a href="[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
-" width="250""/</a>  </p>
+<details>
+
+  <summary> 🔥• Deploy to Okteto • 🔥</summary>
+
+- [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
+
+
 
 </details>
