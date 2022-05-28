@@ -4,8 +4,8 @@ from pyrogram.types import Message
 from modules.helpers.command import commandpro
 from pyrogram import Client, filters
 from os import system, execle, environ
-from modules.helpers.decorators import sudo_users_only
-from modules.config import BOT_USERNAME
+from Sparky.helpers.decorators import sudo_users_only
+from Sparky.config import BOT_USERNAME
 
 
 @Client.on_message(commandpro(["R", "/restart", "/restart@{BOT_USERNAME}"]) & ~filters.edited)
