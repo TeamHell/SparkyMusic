@@ -11,9 +11,9 @@ from modules.config import BOT_USERNAME
 @Client.on_message(commandpro(["R", "/restart", "/restart@{BOT_USERNAME}"]) & ~filters.edited)
 @sudo_users_only
 async def restart_bot(_, message: Message):
-    msg = await message.reply("`ʀᴇsᴛᴀʀᴛɪɴɢ ʙᴏᴛ...`")
+    msg = await message.reply("`Restarting...`")
     args = [sys.executable, "main.py"]
-    await msg.edit("✅ ʙᴏᴛ ʀᴇsᴛᴀʀᴛᴇᴅ\n✅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴀɢᴀɪɴ")
+    await msg.edit("✅ Bot restarted\n✅ Now gib party Karo 😁")
     execle(sys.executable, *args, environ)
     return
 
