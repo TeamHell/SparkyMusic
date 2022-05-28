@@ -19,7 +19,7 @@ async def broadcast(_, message: Message):
         lmao = message.reply_to_message.text
         async for dialog in rudra.iter_dialogs():
             try:
-                await aditya.send_message(dialog.chat.id, lmao)
+                await rudra.send_message(dialog.chat.id, lmao)
                 sent = sent+1
                 await wtf.edit(f"**🚶 Broadcasting ...** \n\n**✔️ Sent :** `{sent}` **Chats** \n**❌ Failed:** `{failed}` **chats**")
                 await asyncio.sleep(3)
