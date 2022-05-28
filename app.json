@@ -32,13 +32,7 @@
             "description": "Your music bot username without @.",
             "required": true,
             "value": ""
-    
        },
-        "OWNER_USERNAME": {
-            "description": "Username of the owner.",
-            "required": true,
-            "value": "Tera_Baap_Sparky"
-        },
         "STRING_SESSION": {
             "description": "Your Assistant Account Pyrogram Session..",
             "required": true
