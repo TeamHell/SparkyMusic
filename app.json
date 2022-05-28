@@ -40,7 +40,7 @@
             "value": "Tera_Baap_Sparky"
         },
         "STRING_SESSION": {
-            "description": "Your bot assistant program session.",
+            "description": "Your Assistant Account Pyrogram Session..",
             "required": true
         },
         "SUDO_USERS": {
