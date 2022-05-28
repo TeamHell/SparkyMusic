@@ -45,7 +45,6 @@
  - ``ASSISTANT_USERNAME``: Your music bot assistant username.
  - ``BOT_TOKEN``: Get token of your music bot from Botfather.
  - ``BOT_USERNAME``: Your music bot username without @.
- - ``OWNER_USERNAME``: Username of the owner.
  - ``STRING_SESSION`` : Your Assistant Account Pyrogram Session.
  - ``SUDO_USERS``: Users who can control your bot.
  - ``SUPPORT_GROUP `` : Your Telegram Group link.
