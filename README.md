@@ -18,7 +18,7 @@
 
 # Installing 
 
-- Click on buttons to expand.
+> Click on buttons to expand.
 
 <details>
 
