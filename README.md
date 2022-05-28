@@ -4,7 +4,7 @@
 
 # Installing 
 
-> Click on buttons to expand. This will show you the details of hosting templates via different platforms and a quick guide.
+> Click on options to expand. This will show you the details of hosting templates via different platforms and a quick guide.
 
 <details>
 
@@ -51,5 +51,11 @@
  - ``SUDO_USERS``: Users who can control your bot.
  - ``SUPPORT_GROUP `` : Your Telegram Group link.
  - ``UPDATES_CHANNEL`` : Your Telegram Channel link.
+
+# Credits
+
+- [Rudra Sparky](https://t.me/tera_baap_sparky) - ``Owner``
+- [Akhil](https://github.com/AKH1LS) - ``Dev - Modified Codes`|
+- [Ashmit](https://github.com/ashimitisop) - ``Github Organization``
 
 
