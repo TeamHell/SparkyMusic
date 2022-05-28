@@ -29,7 +29,7 @@
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "Your bot username without @",
+            "description": "Your music bot username without @.",
             "required": true,
             "value": ""
     
