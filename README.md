@@ -37,3 +37,14 @@
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 </details>
+
+<details>
+
+  <summary> Deploy to Heroku server on Telegram 🔥 </summary>
+
+### Deploy to Heroku server without leaving Telegram app.
+
+<p align="center"><a href="[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
+" width="250""/</a>  </p>
+
+</details>
