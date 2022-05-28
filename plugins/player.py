@@ -10,20 +10,20 @@ from typing import Callable
 from pyrogram import Client, filters
 from pyrogram.types import Message, Voice, InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors import UserAlreadyParticipant
-from modules.cache.admins import set
-from modules.clientbot import clientbot, queues
-from modules.clientbot.clientbot import client as USER
-from modules.helpers.admins import get_administrators
+from Sparky.cache.admins import set
+from Sparky.clientbot import clientbot, queues
+from Sparky.clientbot.clientbot import client as USER
+from Sparky.helpers.admins import get_administrators
 from youtube_search import YoutubeSearch
-from modules import converter
-from modules.downloaders import youtube
-from modules.config import ASSISTANT_USERNAME, DURATION_LIMIT, que, OWNER_USERNAME, SUDO_USERS, SUPPORT_GROUP, UPDATES_CHANNEL, PROFILE_CHANNEL
-from modules.cache.admins import admins as a
-from modules.helpers.filters import command, other_filters
-from modules.helpers.command import commandpro
-from modules.helpers.decorators import errors, authorized_users_only
-from modules.helpers.errors import DurationLimitError
-from modules.helpers.gets import get_url, get_file_name
+from Sparky import converter
+from Sparky.downloaders import youtube
+from Sparky.config import ASSISTANT_USERNAME, DURATION_LIMIT, que, OWNER_USERNAME, SUDO_USERS, SUPPORT_GROUP, UPDATES_CHANNEL, PROFILE_CHANNEL
+from Sparky.cache.admins import admins as a
+from Sparky.helpers.filters import command, other_filters
+from Sparky.helpers.command import commandpro
+from Sparky.helpers.decorators import errors, authorized_users_only
+from Sparky.helpers.errors import DurationLimitError
+from Sparky.helpers.gets import get_url, get_file_name
 from PIL import Image, ImageFont, ImageDraw
 from pytgcalls import StreamType
 from pytgcalls.types.input_stream import InputStream
