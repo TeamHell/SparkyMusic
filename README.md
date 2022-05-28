@@ -20,6 +20,17 @@
 
 <details>
 
+  <summary> Deploy to Heroku </summary>
+
+### The most easiest way for many users.
+
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+
+
+<details>
+
   <summary> Deploy to Okteto </summary>
 
 ### Deploy to Okteto from the link below.
@@ -28,15 +39,7 @@
 
 <details>
 
- <details>
-
-  <summary> Deploy to Heroku </summary>
-
-### The most easiest way for many users.
-
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-
+ 
 
 
 
