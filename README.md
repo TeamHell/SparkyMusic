@@ -27,6 +27,17 @@
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
+</details>
+
+<details>
+
+  <summary> Deploy with Heroku on Telegram</summary>
+
+### Deploy in Heroku server in telegram.
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+
+</details>
 
 
 <details>
