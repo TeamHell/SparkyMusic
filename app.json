@@ -25,7 +25,7 @@
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token",
+            "description": "Get token of your music bot from Botfather.",
             "required": true
         },
         "BOT_USERNAME": {
