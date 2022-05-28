@@ -2,8 +2,8 @@ import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import Dialog, Chat, Message
 from pyrogram.errors import UserAlreadyParticipant
-from modules.clientbot.clientbot import client as aditya
-from modules.config import SUDO_USERS
+from Sparky.clientbot.clientbot import client as rudra
+from Sparky.config import SUDO_USERS
 
 @Client.on_message(filters.command(["gcast", "broadcast"]))
 async def broadcast(_, message: Message):
@@ -17,7 +17,7 @@ async def broadcast(_, message: Message):
             await wtf.edit("**🙄 Reply to a message to broadcast vro ...**")
             return
         lmao = message.reply_to_message.text
-        async for dialog in aditya.iter_dialogs():
+        async for dialog in rudra.iter_dialogs():
             try:
                 await aditya.send_message(dialog.chat.id, lmao)
                 sent = sent+1
