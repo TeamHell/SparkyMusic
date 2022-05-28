@@ -20,39 +20,20 @@
 
 <details>
 
-  <summary> Deploy to Heroku </summary>
+  <summary> Deploy to Heroku 🔥 </summary>
 
-### The most easiest way for many users.
+### I would suggest you to host this on Europe server for better quality and less crashes.
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-______
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AKH1LS/TG-MusicPlayer"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 </details>
 
 <details>
 
-  <summary> Deploy with Heroku on Telegram</summary>
+  <summary> Deploy to Heroku server on Telegram 🔥 </summary>
 
-### Deploy in Heroku server in telegram.
+### Deploy to Heroku server without leaving Telegram app.
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 </details>
-
-_______
-
-<details>
-
-  <summary> Deploy to Okteto </summary>
-
-### Deploy to Okteto from the link below.
-
-[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
-
-<details>
-
- 
-
-
-
