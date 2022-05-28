@@ -26,6 +26,7 @@
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+______
 
 </details>
 
@@ -39,6 +40,7 @@
 
 </details>
 
+_______
 
 <details>
 
