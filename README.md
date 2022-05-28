@@ -30,8 +30,11 @@
 
 <details>
 
-  <summary> 🔥• Deploy Via Telegram Bot •🔥 </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2
+  <summary> 🔥• Deploy to Okteto •🔥 </summary>
+
+<h4> Use okteto in the place of Heroku, as you wish, wherever you wanted to host the bot </h4>
+
+[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
 
 </details>
 
@@ -39,7 +42,6 @@
 
   <summary> 🔥• Deploy to Okteto • 🔥</summary>
 
-- [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
 
 
 
