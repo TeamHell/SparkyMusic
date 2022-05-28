@@ -14,5 +14,5 @@ bot = Bot(
 
 bot.start()
 run()
-print("🥀 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑺𝒕𝒂𝒓𝒕𝒆𝒅 ✨ ...")
+print("Sparky Music Bot started successfully...")
 idle()
