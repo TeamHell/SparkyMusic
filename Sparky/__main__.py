@@ -1,7 +1,7 @@
 from pyrogram import idle
 from pyrogram import Client as Bot
-from modules.clientbot import run
-from modules.config import API_ID, API_HASH, BOT_TOKEN
+from Sparky.clientbot import run
+from Sparky.config import API_ID, API_HASH, BOT_TOKEN
 
     
 bot = Bot(
