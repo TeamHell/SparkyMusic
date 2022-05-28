@@ -18,6 +18,8 @@
 
 # Installing 
 
+- Click on buttons to expand.
+
 <details>
 
   <summary> • Deploy to Heroku • </summary>
