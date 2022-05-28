@@ -65,7 +65,7 @@ LOVEOP = [
 ]
 
 
-@CLIENT.on(events.NewMessage(incoming=True, pattern=r"\%sloveraid(?: |$)(.*)" % hl))
+@Client.on(events.NewMessage(incoming=True, pattern=r"\%sloveraid(?: |$)(.*)" % hl))
 async def spam(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = Love Raid\n\nCommand:\n\n.loveraid <count> <Username of User>\n\n.loveraid <count> <reply to a User>\n\nCount must be a integer."
     if e.sender_id in SUDO_USERS:
@@ -123,7 +123,7 @@ async def spam(e):
             await e.reply(usage)
 
 
-@CLIENT.on(events.NewMessage(incoming=True))
+@Client.on(events.NewMessage(incoming=True))
 async def _(event):
     global que
     queue = que.get(event.sender_id)
@@ -138,7 +138,7 @@ async def _(event):
             reply_to=event.message.id,
         )
 
-@CLIENTS.on(events.NewMessage(incoming=True, pattern=r"\%slovereplyraid(?: |$)(.*)" % hl))
+@Client.on(events.NewMessage(incoming=True, pattern=r"\%slovereplyraid(?: |$)(.*)" % hl))
 async def _(e):
     global que
     usage = f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = Love ReplyRaid\n\nCommand:\n\n.lovereplyraid <Username of User>\n\n.lovereplyraid <reply to a User>."
@@ -191,7 +191,7 @@ async def _(e):
             await e.reply(usage)
 
 
-@CLIENTS.on(events.NewMessage(incoming=True, pattern=r"\%sdlovereplyraid(?: |$)(.*)" % hl))
+@Client.on(events.NewMessage(incoming=True, pattern=r"\%sdlovereplyraid(?: |$)(.*)" % hl))
 async def _(e):
     usage = "𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲 = Deactivate Raid\n\nCommand:\n\n.dlovereplyraid <Username of User>\n\n.dlovereplyraid <reply to a User>"
     global que
