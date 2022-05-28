@@ -22,15 +22,19 @@
 
   <summary> Deploy to Okteto </summary>
 
-# Deploy to Okteto from the link below.
+### Deploy to Okteto from the link below.
 
 [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
 
+</details>
+
 <details>
+
+ <details>
 
   <summary> Deploy to Heroku </summary>
 
-# The most easiest way for many users.
+### The most easiest way for many users.
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
