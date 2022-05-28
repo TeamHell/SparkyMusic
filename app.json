@@ -15,7 +15,7 @@
             "required": true
         },
         "ASSISTANT_USERNAME": {
-            "description": "Assistant username of your bot without @",
+            "description": "Your music bot assistant username.",
             "required": true,
             "value": ""
         },
