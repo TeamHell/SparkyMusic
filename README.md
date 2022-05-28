@@ -20,7 +20,7 @@
 
 <details>
 
-  <summary> 🔥• Deploy to Heroku • 🔥 </summary>
+  <summary> • Deploy to Heroku • </summary>
 
 <h4> The easiest and most convenient way of Telegram hosting.</h4>
 
@@ -30,9 +30,9 @@
 
 <details>
 
-  <summary> 🔥• Deploy to Okteto •🔥 </summary>
+  <summary> • Deploy to Okteto • </summary>
 
-<h4> Use okteto in the place of Heroku, as you wish, wherever you wanted to host the bot </h4>
+<h4> Use okteto in the place of Heroku, as you wish, wherever you wanted to host the bot. </h4>
 
 [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
 
@@ -40,9 +40,9 @@
 
 <details>
 
-  <summary> 🔥• Deploy with Telegram Bot • 🔥</summary>
+  <summary> • Deploy with Telegram Bot • </summary>
 
-<h4> Don't want to leave Telegram ? Host it via Heroku server with xtz heroku bot. </h4>
+<h4> Don't want to leave Telegram ? Host it via Heroku server with XTZ heroku bot. </h4>
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
