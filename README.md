@@ -55,6 +55,6 @@
 
 - [Rudra Sparky](https://t.me/tera_baap_sparky) - ``Creator and Owner``
 - [Akhil](https://github.com/AKH1LS) - ``Dev of  Modified Codes``
-- [Ashmit](https://github.com/ashimitisop) - ``Owner of the hosted Github Organization``
+- [Ashmit](https://github.com/ashmitisop) - ``Owner of the hosted Github Organization``
 
 
