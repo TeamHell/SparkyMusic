@@ -40,7 +40,7 @@
 
 <details>
 
-  <summary> 🔥• Deploy to Okteto • 🔥</summary>
+  <summary> 🔥• Deploy with Telegram Bot • 🔥</summary>
 
 <h4> Don't want to leave Telegram ? Host it via Heroku server with xtz heroku bot. </h4>
 
