@@ -2,6 +2,9 @@
 
 ### SPARKY MUSIC - A TELEGRAM MUSIC BOT PROJECT WRITTEN IN PYTHON3.
 
+# Requirements
+
+
 # Deploy On OkTeto
 
 [![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/Shailendra34/TGMusicBot)
