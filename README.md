@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/TERA_BAAP_Sparky"><img src="https://te.legra.ph/file/2a2b6946c47a07760e733.jpg"></a></p>
 
-### Sparky Music - A Telegram Music Bot Project written in python3.
+### Sparky Music - A Telegram Music Bot Project written in Python3.
 
 # Requirements
 
@@ -16,12 +16,21 @@
  - ``UPDATES_CHANNEL`` : Your Telegram Channel link.
 
 
-# Deploy On OkTeto
+# Installing 
 
-[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/Shailendra34/TGMusicBot)
+<details>
 
+  <summary> Deploy to Okteto </summary>
 
-# Deploy To Heroku
+# Deploy to Okteto from the link below.
+
+[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamHell/SparkyMusic)
+
+<details>
+
+  <summary> Deploy to Heroku </summary>
+
+# The most easiest way for many users.
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
