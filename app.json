@@ -1,0 +1,75 @@
+{
+    "name": "𝐓𝐆𝐌𝐮𝐬𝐢𝐜𝐁𝐨𝐭",
+    "logo": "https://te.legra.ph/file/a4c16c60dd1c46bbe7385.jpg",
+    "description": "🥀 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥𝐥 𝐚𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩 𝐕𝐂 ✨",
+    "keywords": ["tgmusicbot", "voice chat", "telegram"],
+    "repository": "https://github.com/Shailendra34/TGMusicBot",
+    "stack": "container",
+    "env": {
+        "API_HASH": {
+            "description": "𝑨𝒑𝒊 𝑯𝒂𝒔𝒉 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕",
+            "required": true
+        },
+        "API_ID": {
+            "description": "𝑨𝒑𝒊 𝑰𝑫 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕",
+            "required": true
+        },
+        "ASSISTANT_USERNAME": {
+            "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑨𝒔𝒔𝒊𝒔𝒕𝒂𝒏𝒕 𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 (𝑾𝒊𝒕𝒉𝒐𝒖𝒕 '@')",
+            "required": true,
+            "value": "Veer_0P"
+        },
+        "START_PIC": {
+            "description": "𝑰𝒎𝒂𝒈𝒆 𝑻𝒉𝒖𝒎𝒃𝒏𝒂𝒊𝒍 𝑳𝒊𝒏𝒌 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕",
+            "required": true,
+            "value": "https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"
+        },
+        "BOT_TOKEN": {
+            "description": "𝑮𝒆𝒕 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏 𝑶𝒇 𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑭𝒓𝒐𝒎 𝑩𝒐𝒕𝑭𝒂𝒕𝒉𝒆𝒓",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "𝒀𝒐𝒖𝒓 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 (𝑾𝒊𝒕𝒉𝒐𝒖𝒕 '@')",
+            "required": true,
+            "value": "Heromusics_bot"
+        },
+        "PROFILE_CHANNEL": {
+            "description": "𝑺𝒆𝒕 𝒀𝒐𝒖𝒓 𝑨𝒃𝒐𝒖𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑶𝒓 𝑬𝒍𝒔𝒆 𝒍𝒆𝒂𝒗𝒆 𝒊𝒕 𝒕𝒐 𝒅𝒆𝒇𝒂𝒖𝒍𝒕....",
+            "required": true,
+            "value": "https://t.me/AboutShailendra"
+        },
+        "OWNER_USERNAME": {
+            "description": "𝑼𝒔𝒆𝒓𝒏𝒂𝒎𝒆 𝑶𝒇 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 𝑶𝒘𝒏𝒆𝒓",
+            "required": true,
+            "value": "Shailendra34"
+        },
+        "STRING_SESSION": {
+            "description": "𝒀𝒐𝒖𝒓 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏 (𝑮𝒆𝒕 𝒊𝒕 𝑭𝒓𝒐𝒎 𝑹𝒆𝒑𝒍𝒊𝒕)",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓𝒔 𝑪𝒂𝒏 𝑪𝒐𝒏𝒕𝒓𝒐𝒍 𝑩𝒐𝒕 𝑾𝒊𝒕𝒉𝒐𝒖𝒕 𝑨𝒅𝒎𝒊𝒏 𝑷𝒆𝒓𝒎𝒊𝒔𝒔𝒊𝒐𝒏",
+            "required": true,
+            "value": "1323020756"
+            
+        },
+        "SUPPORT_GROUP": {
+            "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
+            "required": true,
+            "value": "https://t.me/Yaaro_Ki_Yaarii"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "𝒀𝒐𝒖𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑭𝒖𝒍𝒍 𝑳𝒊𝒏𝒌",
+            "required": true,
+            "value": "https://t.me/HeroOfficialBots"
+        }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
+}
