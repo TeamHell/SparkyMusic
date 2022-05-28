@@ -26,7 +26,7 @@ BOT_TOKEN = getenv("BOT_TOKEN", "12345:XXXXX")
 BOT_USERNAME = getenv("BOT_USERNAME", "XXXXX")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "900"))
 STRING_SESSION = getenv("STRING_SESSION", "session")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "2102783671").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5327845950").split()))
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/NRx_fightersop")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/THE_RAJPUTANA_BRAND47")
 
