@@ -1,11 +1,11 @@
-from modules.config import (
+from Sparky.config import (
     START_PIC, 
     BOT_USERNAME,
     SUPPORT_GROUP,
     OWNER_USERNAME,
     UPDATES_CHANNEL,
 )
-from modules.helpers.filters import command
+from Sparky.helpers.filters import command
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
