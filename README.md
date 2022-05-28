@@ -54,8 +54,8 @@
 
 # Credits
 
-- [Rudra Sparky](https://t.me/tera_baap_sparky) - ``Owner``
-- [Akhil](https://github.com/AKH1LS) - ``Dev - Modified Codes`|
-- [Ashmit](https://github.com/ashimitisop) - ``Github Organization``
+- [Rudra Sparky](https://t.me/tera_baap_sparky) - ``Creator and Owner``
+- [Akhil](https://github.com/AKH1LS) - ``Dev - Modified Codes``
+- [Ashmit](https://github.com/ashimitisop) - `` Owner of the hosted Github Organization``
 
 
