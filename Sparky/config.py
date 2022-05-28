@@ -11,7 +11,7 @@ import aiohttp
 from os import getenv
 from dotenv import load_dotenv
 
-# Internal Variable (
+# Internal Variable 
 load_dotenv()
 que = {}
 admins = {}
