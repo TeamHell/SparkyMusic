@@ -32,7 +32,7 @@
 
 <h4> Don't want to leave Telegram ? Host it via Heroku server with XTZ heroku bot. </h4>
 
-<p align="left"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+<p align="left"><a href="https://telegram.dog/XTZ_HerokuBot"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/</a>  </p>
 
 
 </details>
