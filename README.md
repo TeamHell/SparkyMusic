@@ -1,3 +1,5 @@
+# Don't use this source code, it is no longer maintained... Use [Tg Music Player](https://github.com/akhilprs/TG-MusicPlayer) instead.
+
 <p align="center"><a href="https://t.me/TERA_BAAP_Sparky"><img src="https://te.legra.ph/file/2a2b6946c47a07760e733.jpg"></a></p>
 
 ### Sparky Music - A Telegram Music Bot Project written in Python3.
