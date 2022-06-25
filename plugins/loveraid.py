@@ -1,5 +1,5 @@
 # Original work by @Itz_Shekhar (I am not sure).
-# Modified by @AKH1LS for Sparky Music.
+# Modified by @akhilprs for Sparky Music.
 # Ported and suggested by @Tera_Baap_sparky.
 # © Don't cut line else your mother will come this night and I will fuck her without protection.
 
